@@ -182,3 +182,83 @@ Below the table, create **three simple process flows**.
 **Example (Customer Enquiry Process):**
 
 Customer email → Shared inbox → CRM ticket created → Response template → Issue resolved → Weekly report
+
+Choose any **three processes** relevant to your workplace.
+
+#### Step 5: Identify 2 Improvements (5–8 minutes)
+Write:
+- **One quick-win improvement** (low cost / easy)
+- **One strategic improvement** (larger change)
+
+Each improvement must explain:
+- What changes
+- Why it helps (time, quality, customer experience, compliance)
+- Risks or controls needed (security, training, data quality)
+
+**Deliverable from Part 2:**  
+- Completed mapping worksheet
+
+---
+
+# Part 3 (Paired Discussion – 10–15 minutes)  
+## Share & Compare
+
+### Step-by-Step
+1. Pair up with the student next to you.
+2. Each student shares:
+   - One tool that adds the **most value**
+   - One tool or process that causes the **most friction**
+   - One **digital skill** they want to build this term
+3. As a pair, agree on one shared insight:
+
+> “The biggest digital challenge across our workplaces is ______ because ______.”
+
+**Optional (2 minutes):**  
+Post your shared insight to the class Padlet or shared document.
+
+---
+
+## What You Submit (End of Class)
+
+1. **Workplace Technology Mapping file** (Excel / Calc)
+2. **Short Reflection (150–250 words)** (Word / Writer)
+
+### Reflection Prompts (answer all):
+- What did you learn about how digital tools support workplace processes?
+- What is your biggest digital skills gap right now?
+- Which of your three goals matters most for your workplace performance, and why?
+
+---
+
+## Assessment-Ready Checklist (Quick Marking)
+
+Minimum expectations:
+- Digital literacy audit completed
+- **3 SMART goals** defined
+- **At least 10 tools** mapped with business function, benefits, and risks
+- **3 simple process maps**
+- **2 improvement suggestions**
+- Reflection submitted
+
+---
+
+## Pre- and Post-Class Work
+
+### Pre-Class
+- Read the module outline / handbook
+
+### Post-Class (15–20 minutes)
+- Improve your mapping worksheet using discussion feedback
+- Refine SMART goals (make them clearer and measurable)
+- Upload final versions to the VLE
+
+---
+
+## Optional Support Materials
+
+If requested, the lecturer can provide:
+- A **ready-made Google Forms / MS Forms audit question set**
+- A **formatted Excel / LibreOffice template** with dropdowns for:
+  - Tool types
+  - Technology pillars
+
