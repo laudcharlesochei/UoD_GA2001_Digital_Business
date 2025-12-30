@@ -180,4 +180,5 @@ If workplace access is limited, use a **case-based approximation** and label it 
 Below the table, create **three simple process flows**.
 
 **Example (Customer Enquiry Process):**
+
 Customer email → Shared inbox → CRM ticket created → Response template → Issue resolved → Weekly report
