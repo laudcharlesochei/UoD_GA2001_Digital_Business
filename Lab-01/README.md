@@ -1,4 +1,3 @@
-
 # Practical Manual  
 ## Lab 01-1: Digital Literacy Audit & Workplace Digital Technology Mapping
 
