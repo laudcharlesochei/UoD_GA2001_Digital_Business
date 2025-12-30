@@ -5,17 +5,8 @@
 
 ## Lab Overview
 
-This **Week 1 in-class practical lab** introduces students to reflective and analytical thinking about **digital literacy** and **digital technologies used in the workplace**.  
-Students will evaluate their own digital skills, map workplace technologies to business processes, and identify improvement opportunities that are relevant to real organisational contexts.
-
-This lab is **formative**, skills-focused, and designed to support students who may be entering diverse workplaces, placements, or part-time employment environments.
-
----
-
-## Duration
-
-**60–90 minutes**  
-(Designed to work effectively in a supervised computer lab session)
+This **Lab** introduces students to reflective and analytical thinking about **digital literacy** and **digital technologies used in the workplace**.  
+Students will evaluate their own digital skills, map workplace technologies to business processes, and identify improvement opportunities that are relevant to real organisational contexts. This lab is **formative**, skills-focused, and designed to support students who may be entering diverse workplaces, placements, or part-time employment environments.
 
 ---
 
