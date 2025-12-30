@@ -34,41 +34,6 @@ If you are **not currently employed**, you may:
 
 ---
 
-## Tools
-
-Choose the option that best fits your environment.
-
-### Option A: Mostly Open / Free Tools
-- **LibreOffice Calc** – workplace mapping worksheet  
-- **LibreOffice Writer** – short reflection  
-- **Google Forms** – digital literacy audit  
-- **Google Sheets** – auto-generated audit results  
-
-> Note: Google tools are free and web-based (not open-source, but widely accessible).
-
-### Option B: Microsoft Stack
-- **Microsoft Excel** – workplace mapping worksheet  
-- **Microsoft Word** – short reflection  
-- **Microsoft Forms** – digital literacy audit  
-- **Excel / Forms Results Dashboard**
-
-### Optional (for Class Discussion)
-- **Padlet** (free tier), **Miro** (free tier), or  
-- A shared **Google Doc / Office Online document**
-
----
-
-## Lecturer Preparation (5–10 minutes before class)
-
-- Create the **Digital Literacy Audit** using Google Forms or Microsoft Forms.
-- Upload or share a link to the **Workplace Technology Mapping Template** spreadsheet on the VLE.
-- Ensure students know where to find:
-  - Audit form
-  - Mapping template
-  - Submission instructions
-
----
-
 # Part 1 (Individual – 25–35 minutes)  
 ## Digital Literacy Audit
 
